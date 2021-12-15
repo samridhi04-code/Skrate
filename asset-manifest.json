@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skrate/static/css/main.41c8a0b5.chunk.css",
+    "main.js": "/skrate/static/js/main.069d9405.chunk.js",
+    "main.js.map": "/skrate/static/js/main.069d9405.chunk.js.map",
+    "runtime-main.js": "/skrate/static/js/runtime-main.7cbcf875.js",
+    "runtime-main.js.map": "/skrate/static/js/runtime-main.7cbcf875.js.map",
+    "static/js/2.b0ff1e99.chunk.js": "/skrate/static/js/2.b0ff1e99.chunk.js",
+    "static/js/2.b0ff1e99.chunk.js.map": "/skrate/static/js/2.b0ff1e99.chunk.js.map",
+    "static/js/3.243482b0.chunk.js": "/skrate/static/js/3.243482b0.chunk.js",
+    "static/js/3.243482b0.chunk.js.map": "/skrate/static/js/3.243482b0.chunk.js.map",
+    "index.html": "/skrate/index.html",
+    "static/css/main.41c8a0b5.chunk.css.map": "/skrate/static/css/main.41c8a0b5.chunk.css.map",
+    "static/js/2.b0ff1e99.chunk.js.LICENSE.txt": "/skrate/static/js/2.b0ff1e99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cbcf875.js",
+    "static/js/2.b0ff1e99.chunk.js",
+    "static/css/main.41c8a0b5.chunk.css",
+    "static/js/main.069d9405.chunk.js"
+  ]
+}
